@@ -1,0 +1,230 @@
+ *{
+	margin: 0px;
+	padding: 0px;
+	word-break:break-all;
+	 box-sizing: border-box;
+ }
+
+body{
+	/*background-image: url(../img/background_img.jpg);
+	background-repeat:repeat;*/
+	background-color: #737373;
+
+}
+
+
+.root_ct{
+	padding-left: 15px;
+	padding-right: 15px;
+	background-color: white;
+}
+
+
+.logoBar{
+	background-color: white;
+	width: 1200px;
+}
+
+.logo{
+	float: left;
+	margin-top: 37px;
+	margin-left: 162px;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.search_view{
+	float: left;
+	margin-top: 37px;
+	margin-left: 100px;
+	margin-bottom: 20px;
+}
+
+.search_name{
+	border: 1px solid #7eaee6;
+	border-radius: 3px 0px 0px 3px;
+	width: 420px;
+	height: 35px;
+	padding-left: 15px;
+
+}
+
+.search_submit{
+	width: 90px;
+	height: 35px;
+	color: white;
+	background: #307ed7;
+	border: 0;
+	border-radius: 0px 3px 3px 0px;
+	/*position: absolute;*/
+
+}
+
+.login_or_register{
+	float: right;
+	margin-top: 36px;
+	padding-right: 20px;
+
+}
+
+.login_or_register a{
+	color: blue;
+}
+
+.login_or_register a:hover{
+	color: red;
+}
+
+
+
+
+
+
+.nagiBar{
+	height: 45px;
+	background: #307ed7;
+	clear: both;
+
+
+}
+
+.nagiBar li{
+	float: left;
+	padding-top: 14px;
+	
+}
+
+.nagiBar li a{
+	font-size: 18px;
+	padding-left: 20px;
+	padding-right: 20px;
+	line-height: 20px;
+}
+
+
+
+
+.cream_content{
+	
+}
+
+.slide_content{
+	float: left;
+}
+
+.news_content{
+
+	width: 500px;
+	height: 300px;
+	float: left;
+	margin-left: 20px;
+	border: 1px dotted #ededed;
+}
+
+.news_title{
+	font-weight: bold;
+	font-size: 16px;
+	color: black;
+	line-height: 120%;
+
+}
+
+.news_title:hover{
+	color: red;
+}
+
+.news_content li{
+	border-bottom: 1px dashed #ccc;
+	height: 100px;
+	padding-top: 15px;
+	padding-left: 20px;
+	padding-right: 15px;
+}
+
+.news_desc{
+
+	font-size: 12px;
+	line-height: 180%;
+	color: #343434;
+	margin-top: 6px;
+
+}
+
+
+.login_ct{
+	float: left;
+	height: 300px;
+	width: 200px;
+	margin-left: 15px;
+	background: #ededed;
+	border: 1px solid #ededed;
+}
+
+.register_btn{
+	color: dodgerblue;
+	margin-left: 80px;
+	font-size: 11px;
+	margin-top: 15px;
+}
+
+.register_btn:hover{
+	color: #CC0000;
+}
+
+
+
+.container-fluid {
+	 
+	margin-top: 340px;
+	 
+ }
+
+ .box {
+	 margin-bottom: 10px;
+	 float: left;
+	 width: 285px;
+	 overflow: hidden;
+ }
+
+ .box img {
+	 max-width: 100%;
+	 width:285px;
+	 height: auto;
+ }
+
+
+.draw_img_list{
+	padding-left: 25px;
+}
+
+
+.draw_img_list img{
+	width: 150px;
+	height: 100px;
+}
+
+
+.sub_title{
+	height: 40px;
+	width: 1200px;
+	background-color: #ededed;
+	padding-top: 10px;
+	padding-right: 15px;
+}
+
+.sub_title p{
+	color: black;
+	display: inline;
+	padding-left: 15px;
+	font-weight: bold;
+}
+
+.sub_title a{
+	color: #343434;
+	float: right;
+}
+
+.sub_title a:hover{
+	color: red;
+}
+

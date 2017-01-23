@@ -1,0 +1,29 @@
+
+.inner{
+	width: 1200px;
+	margin: 0 auto;
+	background-color: white;
+	/*border-left: 2px black;
+	border-right: 2px black;*/
+}
+
+li{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.clear{
+	clear: both;
+}
+
+.blank_divider{
+	clear: both;
+	width: 1200px;
+	height: 15px;
+	background-color: white;
+
+}
